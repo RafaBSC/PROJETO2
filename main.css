@@ -1,11 +1,13 @@
 html {
     background-color: black;
+    overflow: hidden;
 }
 
 .titulo {
     text-align: center;
     color: red;
     font-size: larger;
+    
 }
 
 #imagem1 {
@@ -14,6 +16,7 @@ html {
     left: 70px;
     font-size: 15px;
     
+    
 }
 
 #imagem2 {
@@ -21,13 +24,15 @@ html {
     bottom: 315px;
     left: 62px;
     font-size: 15px;
+   
 }
 
 #imagem3 {
     position:absolute;
-    bottom: 347px;
+    bottom: 368px;
     left: 800px;
     font-size: 15px;
+
 }
 
 #imagem4 {
@@ -35,6 +40,7 @@ html {
     bottom: 617px;
     left: 792px;
     font-size: 15px;
+    
 }
 
 
