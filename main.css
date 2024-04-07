@@ -1,0 +1,74 @@
+html {
+    background-color: black;
+}
+
+.titulo {
+    text-align: center;
+    color: red;
+    font-size: larger;
+}
+
+#imagem1 {
+    position:absolute;
+    top: 66px;
+    left: 70px;
+    font-size: 15px;
+    
+}
+
+#imagem2 {
+    position:relative;
+    bottom: 315px;
+    left: 62px;
+    font-size: 15px;
+}
+
+#imagem3 {
+    position:absolute;
+    bottom: 347px;
+    left: 800px;
+    font-size: 15px;
+}
+
+#imagem4 {
+    position:relative;
+    bottom: 617px;
+    left: 792px;
+    font-size: 15px;
+}
+
+
+#paragrafo1 {
+    color: white;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    font-size:18px;
+  
+}
+
+#paragrafo2 {
+    color: white;
+    position: absolute;
+    top: 390px;
+    left: 400px;
+    font-size:18px;
+}
+
+#paragrafo3 {
+    color: white;
+    position: absolute;
+    top: 50px;
+    left: 1134px;
+    font-size:18px;
+}
+
+#paragrafo4 {
+    color: white;
+    position: absolute;
+    top: 390px;
+    left: 1134px;
+    font-size:18px;
+}
+
+
