@@ -42,17 +42,19 @@ html {
     color: white;
     position: absolute;
     top: 50px;
-    left: 400px;
+    left: 440px;
     font-size:18px;
-  
+    text-align: center;
+
 }
 
 #paragrafo2 {
     color: white;
     position: absolute;
     top: 390px;
-    left: 400px;
+    left: 450px;
     font-size:18px;
+    text-align: center;
 }
 
 #paragrafo3 {
@@ -61,14 +63,16 @@ html {
     top: 50px;
     left: 1134px;
     font-size:18px;
+    text-align: center;
 }
 
 #paragrafo4 {
     color: white;
     position: absolute;
-    top: 390px;
-    left: 1134px;
+    top: 395px;
+    left: 1147px;
     font-size:18px;
+    text-align: center;
 }
 
 
